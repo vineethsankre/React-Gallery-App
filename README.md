@@ -72,13 +72,5 @@ Use these files to complete the implementation:
 - `src/components/ThumbnailItem/index.css`
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the CSS `opacity` property to set the degree to which content behind an element is hidden. It accepts a value in the range of 0.0 to 1.0 inclusive
-</details>
 
 
