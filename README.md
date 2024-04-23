@@ -86,8 +86,4 @@ Use these files to complete the implementation:
 
 </details>
 
-### Important Note
-
-<details>
-</details>
 
