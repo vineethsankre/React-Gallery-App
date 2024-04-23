@@ -102,7 +102,6 @@ Use these files to complete the implementation:
 ### Resources
 
 <details>
-<summary>Colors</summary>
 
 </details>
 
