@@ -68,7 +68,6 @@ Use these files to complete the implementation:
 
 - `src/components/Gallery/index.js`
 - `src/components/Gallery/index.css`
-- `src/components/ThumbnailItem/index.js`
 </details>
 
 
