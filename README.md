@@ -94,7 +94,5 @@ Use these files to complete the implementation:
 <br/>
 
 **The following instructions are required for the tests to pass**
-
-- The selected image should have the alt as the value of the key `imageAltText` from each image details object provided
 </details>
 
