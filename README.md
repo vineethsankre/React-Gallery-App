@@ -90,9 +90,5 @@ Use these files to complete the implementation:
 
 <details>
 <summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
 </details>
 
