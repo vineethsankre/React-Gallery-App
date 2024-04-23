@@ -99,9 +99,3 @@ Use these files to complete the implementation:
 - The thumbnail images should have the alt as values of the key `thumbnailAltText` from each image details object provided
 </details>
 
-### Resources
-
-<details>
-
-</details>
-
