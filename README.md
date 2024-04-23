@@ -96,6 +96,5 @@ Use these files to complete the implementation:
 **The following instructions are required for the tests to pass**
 
 - The selected image should have the alt as the value of the key `imageAltText` from each image details object provided
-- The thumbnail images should have the alt as values of the key `thumbnailAltText` from each image details object provided
 </details>
 
