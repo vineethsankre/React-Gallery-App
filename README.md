@@ -89,6 +89,5 @@ Use these files to complete the implementation:
 ### Important Note
 
 <details>
-<summary>Click to view</summary>
 </details>
 
